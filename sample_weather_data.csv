@@ -1,0 +1,11 @@
+City,Temperature,Humidity,WindSpeed,RainProbability,Pressure,Condition
+Kolkata,34,78,12,80,1002,Rainy
+Delhi,40,35,18,10,998,Sunny
+Mumbai,30,85,22,90,1005,Storm
+Chennai,36,70,14,60,1001,Cloudy
+Bangalore,28,65,10,30,1008,Sunny
+Hyderabad,38,40,20,15,999,Hot
+Pune,29,55,8,20,1007,Clear
+Jaipur,42,25,16,5,995,Heatwave
+Lucknow,35,72,11,50,1003,Humid
+Ahmedabad,41,30,19,8,997,Sunny
